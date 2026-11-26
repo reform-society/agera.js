@@ -3,7 +3,7 @@
 Built distribution of Agera.js, a script for Webflow campaign sites. Served via jsDelivr.
 
 - **Status:** maintenance only.
-- **Owner:** Jens Harvard
+- **Owner:** Jens Harvard ([@Vrejf](https://github.com/Vrejf))
 
 ## Usage
 
